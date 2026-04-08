@@ -76,10 +76,6 @@ pip install -r requirements.txt
 python main.py
 
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> b0b379d9cc15b53e362cdece2f42e44aabc99cf0
 ---
 
 ## Output
