@@ -1,0 +1,3 @@
+New checkout system introduced.
+Known issues: API timeout, payment retries.
+Risk: Increased backend load, unstable sessions.
