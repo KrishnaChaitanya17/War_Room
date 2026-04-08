@@ -76,7 +76,10 @@ pip install -r requirements.txt
 python main.py
 
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> b0b379d9cc15b53e362cdece2f42e44aabc99cf0
 ---
 
 ## Output
@@ -108,4 +111,8 @@ The system generates a structured JSON output:
  - Agents operate independently and collaborate via orchestrator
  - Decisions are based on real metric trends and sentiment analysis
  - Risks and actions are dynamically generated from system state
+<<<<<<< HEAD
  - Clean separation of concerns ( agents, tools, orchestration)
+=======
+ - Clean separation of concerns ( agents, tools, orchestration)
+>>>>>>> b0b379d9cc15b53e362cdece2f42e44aabc99cf0
