@@ -75,9 +75,10 @@ pip install -r requirements.txt
 
 python main.py
 
+```
 ---
 
-### Output
+## Output
 
 The system generates a structured JSON output:
 
